@@ -1,6 +1,5 @@
 # ProgrammingLanguageDefinitions
-Programming language definitions
 
-It's a repository for programming language definitions.
+It's my personal study repository about programming language definitions.
 
-It's for study proposals.
+It's only for study proposals.
